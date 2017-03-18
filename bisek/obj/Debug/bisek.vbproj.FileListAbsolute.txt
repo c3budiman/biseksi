@@ -1,0 +1,14 @@
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\bin\Debug\bisek.exe.config
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\bin\Debug\bisek.exe
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\bin\Debug\bisek.pdb
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\bin\Debug\bisek.xml
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.vbprojResolveAssemblyReference.cache
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\Interop.MSScriptControl.dll
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.vbproj.ResolveComReference.cache
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.Form1.resources
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.Resources.resources
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.vbproj.GenerateResource.Cache
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.exe
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.xml
+c:\users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.pdb
+C:\Users\c3budiman\documents\visual studio 2015\Projects\bisek\bisek\obj\Debug\bisek.about.resources
